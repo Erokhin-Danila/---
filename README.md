@@ -9,7 +9,7 @@
 - C#
 - .NET Framework и Core
 - SQL Server
-- Git
+- GIT
 - REST API
 - Agile методологии
 
